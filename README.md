@@ -16,4 +16,4 @@ A simple calculator built with Python.
 Make sure Python is installed, then run:
 
 ```bash
-python calculator.py
+calculator-py.py
